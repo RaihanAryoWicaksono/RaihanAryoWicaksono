@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 370" width="100%" height="370">
+  <defs>
+    <linearGradient id="rgb" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff0000">
+        <animate attributeName="stop-color" values="#ff0000;#ff7300;#fffb00;#48ff00;#00ffd5;#002bff;#7a00ff;#ff00c8;#ff0000" dur="4s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#00ffd5">
+        <animate attributeName="stop-color" values="#00ffd5;#002bff;#7a00ff;#ff00c8;#ff0000;#ff7300;#fffb00;#48ff00;#00ffd5" dur="4s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#ff0000">
+        <animate attributeName="stop-color" values="#7a00ff;#ff00c8;#ff0000;#ff7300;#fffb00;#48ff00;#00ffd5;#002bff;#7a00ff" dur="4s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+    <style>
+      .bg { fill: #0d1117; }
+      .border { fill: none; stroke: url(#rgb); stroke-width: 5; rx: 12; ry: 12; }
+      .text { font-family: 'Consolas', 'Courier New', monospace; font-size: 16px; }
+      .key { fill: #ff7b72; font-weight: bold; }
+      .val { fill: #a5d6ff; }
+      .bracket { fill: #c9d1d9; }
+      .comment { fill: #8b949e; font-style: italic; }
+      .dot { fill: #d2a8ff; font-weight: bold; }
+      .header { fill: #161b22; }
+      .mac-btn-r { fill: #ff5f56; }
+      .mac-btn-y { fill: #ffbd2e; }
+      .mac-btn-g { fill: #27c93f; }
+    </style>
+  </defs>
+
+  <!-- Animated RGB Border -->
+  <rect class="border" x="2" y="2" width="796" height="366" />
+  
+  <!-- Main Background -->
+  <rect class="bg" x="5" y="5" width="790" height="360" rx="10" ry="10" />
+  
+  <!-- Mac-like Header -->
+  <rect class="header" x="5" y="5" width="790" height="35" rx="10" ry="10" />
+  <!-- Bottom part of header to make it flat at bottom -->
+  <rect class="header" x="5" y="20" width="790" height="20" />
+  
+  <!-- Mac Buttons -->
+  <circle class="mac-btn-r" cx="25" cy="22" r="6" />
+  <circle class="mac-btn-y" cx="45" cy="22" r="6" />
+  <circle class="mac-btn-g" cx="65" cy="22" r="6" />
+
+  <!-- Code Content -->
+  <g class="text" transform="translate(30, 75)">
+    <text y="0"><tspan class="comment">/* 🧑‍💻 Full-Stack Developer Profile */</tspan></text>
+    
+    <text y="30"><tspan class="key">const</tspan> <tspan class="dot">Raihan</tspan> <tspan class="bracket">=</tspan> <tspan class="bracket">{</tspan></text>
+    
+    <text y="55" xml:space="preserve">  <tspan class="key">name</tspan><tspan class="bracket">:</tspan> <tspan class="val">"Raihan Aryo Wicaksono"</tspan><tspan class="bracket">,</tspan></text>
+    <text y="80" xml:space="preserve">  <tspan class="key">username</tspan><tspan class="bracket">:</tspan> <tspan class="val">".anaraiii"</tspan><tspan class="bracket">,</tspan></text>
+    <text y="105" xml:space="preserve">  <tspan class="key">role</tspan><tspan class="bracket">:</tspan> <tspan class="val">"Software Engineering Student"</tspan><tspan class="bracket">,</tspan></text>
+    <text y="130" xml:space="preserve">  <tspan class="key">location</tspan><tspan class="bracket">:</tspan> <tspan class="val">"Indonesia 🇮🇩"</tspan><tspan class="bracket">,</tspan></text>
+    <text y="155" xml:space="preserve">  <tspan class="key">skills</tspan><tspan class="bracket">:</tspan> <tspan class="bracket">[</tspan></text>
+    <text y="180" xml:space="preserve">    <tspan class="val">"Web Development (Laravel, PHP)"</tspan><tspan class="bracket">,</tspan></text>
+    <text y="205" xml:space="preserve">    <tspan class="val">"Mobile App Development (Flutter)"</tspan><tspan class="bracket">,</tspan></text>
+    <text y="230" xml:space="preserve">    <tspan class="val">"Object-Oriented Programming"</tspan><tspan class="bracket">,</tspan></text>
+    <text y="255" xml:space="preserve">    <tspan class="val">"Algorithm &amp; Data Structures"</tspan></text>
+    <text y="280" xml:space="preserve">  <tspan class="bracket">],</tspan></text>
+    <text y="305" xml:space="preserve">  <tspan class="key">funFact</tspan><tspan class="bracket">:</tspan> <tspan class="val">"I turn coffee into code ☕→💻"</tspan></text>
+    <text y="330"><tspan class="bracket">};</tspan></text>
+  </g>
+</svg>
