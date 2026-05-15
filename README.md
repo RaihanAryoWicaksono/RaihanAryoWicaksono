@@ -63,12 +63,17 @@ fun_fact: "I turn coffee into code ☕→💻"
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RaihanAryoWicaksono&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RaihanAryoWicaksono&theme=github_dark" />
   <img width="49%" src="https://streak-stats.demolab.com?user=RaihanAryoWicaksono&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1f6feb&fire=ff6e40&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681" />
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaihanAryoWicaksono&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RaihanAryoWicaksono&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RaihanAryoWicaksono&theme=github_dark" />
+</div>
+
+<div align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaihanAryoWicaksono&theme=github_dark" />
 </div>
 
 ---
@@ -84,20 +89,49 @@ fun_fact: "I turn coffee into code ☕→💻"
 ## 📌 Featured Projects
 
 <div align="center">
+<table>
+<tr>
+<td width="50%">
 
-<a href="https://github.com/RaihanAryoWicaksono/rme-praktek-mandiri-gigi">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RaihanAryoWicaksono&repo=rme-praktek-mandiri-gigi&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" />
-</a>
-<a href="https://github.com/RaihanAryoWicaksono/Money-Tracking-Mobile">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RaihanAryoWicaksono&repo=Money-Tracking-Mobile&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" />
-</a>
-<a href="https://github.com/RaihanAryoWicaksono/Sistem-pembayaran-pelanggan">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RaihanAryoWicaksono&repo=Sistem-pembayaran-pelanggan&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" />
-</a>
-<a href="https://github.com/RaihanAryoWicaksono/Tubes-AKA">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RaihanAryoWicaksono&repo=Tubes-AKA&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" />
-</a>
+### 🦷 [RME Praktek Mandiri Gigi](https://github.com/RaihanAryoWicaksono/rme-praktek-mandiri-gigi)
+> Dental clinic medical records management system built with **Laravel** & **Blade**
 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 💰 [Money Tracking Mobile](https://github.com/RaihanAryoWicaksono/Money-Tracking-Mobile)
+> Mobile application for personal finance & expense tracking ⭐ 1
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🛒 [Sistem Pembayaran Pelanggan](https://github.com/RaihanAryoWicaksono/Sistem-pembayaran-pelanggan)
+> Customer payment system with complete transaction management
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+<td width="50%">
+
+### 📊 [Tubes AKA](https://github.com/RaihanAryoWicaksono/Tubes-AKA)
+> Algorithm & complexity analysis final project
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+
+</td>
+</tr>
+</table>
 </div>
 
 ---
