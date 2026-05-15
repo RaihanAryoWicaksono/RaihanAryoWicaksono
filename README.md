@@ -63,8 +63,8 @@ fun_fact: "I turn coffee into code ☕→💻"
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RaihanAryoWicaksono&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=238636" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RaihanAryoWicaksono&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1f6feb&fire=ff6e40&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RaihanAryoWicaksono&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=RaihanAryoWicaksono&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1f6feb&fire=ff6e40&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681" />
 </div>
 
 <div align="center">
@@ -86,16 +86,16 @@ fun_fact: "I turn coffee into code ☕→💻"
 <div align="center">
 
 <a href="https://github.com/RaihanAryoWicaksono/rme-praktek-mandiri-gigi">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RaihanAryoWicaksono&repo=rme-praktek-mandiri-gigi&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&description_lines=2" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RaihanAryoWicaksono&repo=rme-praktek-mandiri-gigi&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" />
 </a>
 <a href="https://github.com/RaihanAryoWicaksono/Money-Tracking-Mobile">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RaihanAryoWicaksono&repo=Money-Tracking-Mobile&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&description_lines=2" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RaihanAryoWicaksono&repo=Money-Tracking-Mobile&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" />
 </a>
 <a href="https://github.com/RaihanAryoWicaksono/Sistem-pembayaran-pelanggan">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RaihanAryoWicaksono&repo=Sistem-pembayaran-pelanggan&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&description_lines=2" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RaihanAryoWicaksono&repo=Sistem-pembayaran-pelanggan&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" />
 </a>
 <a href="https://github.com/RaihanAryoWicaksono/Tubes-AKA">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RaihanAryoWicaksono&repo=Tubes-AKA&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&description_lines=2" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RaihanAryoWicaksono&repo=Tubes-AKA&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" />
 </a>
 
 </div>
@@ -106,18 +106,6 @@ fun_fact: "I turn coffee into code ☕→💻"
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RaihanAryoWicaksono&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ff6e40&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Activity" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaihanAryoWicaksono/RaihanAryoWicaksono/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaihanAryoWicaksono/RaihanAryoWicaksono/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/RaihanAryoWicaksono/RaihanAryoWicaksono/output/github-snake-dark.svg" />
-  </picture>
 </div>
 
 ---
