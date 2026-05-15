@@ -27,7 +27,11 @@
 ## 🧑‍💻 About Me
 
 <div align="center">
-  <img src="about-me.svg" alt="About Me" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="about-me.svg">
+    <source media="(prefers-color-scheme: light)" srcset="about-me.svg">
+    <img alt="About Me" src="about-me.svg" width="100%">
+  </picture>
 </div>
 
 ---
