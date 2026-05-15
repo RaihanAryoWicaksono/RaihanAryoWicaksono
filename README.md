@@ -26,20 +26,9 @@
 
 ## 🧑‍💻 About Me
 
-```yaml
-name: Raihan Aryo Wicaksono
-username: .anaraiii
-role: Software Engineering Student & Full-Stack Developer
-location: Indonesia 🇮🇩
-education: Informatics / Computer Science
-interests:
-  - Web Development (Laravel, PHP)
-  - Mobile App Development
-  - Object-Oriented Programming
-  - Algorithm & Data Structures
-current_focus: "Building healthcare & business management systems"
-fun_fact: "I turn coffee into code ☕→💻"
-```
+<div align="center">
+  <img src="about-me.svg" alt="About Me" width="100%" />
+</div>
 
 ---
 
