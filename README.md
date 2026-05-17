@@ -36,9 +36,9 @@
 <div align="center">
   <a href="https://github.com/RaihanAryoWicaksono">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="about-me.svg?v=3">
-      <source media="(prefers-color-scheme: light)" srcset="about-me.svg?v=3">
-      <img alt="About Me" src="about-me.svg?v=3" width="100%">
+      <source media="(prefers-color-scheme: dark)" srcset="about-me.svg?v=4">
+      <source media="(prefers-color-scheme: light)" srcset="about-me.svg?v=4">
+      <img alt="About Me" src="about-me.svg?v=4" width="100%">
     </picture>
   </a>
 </div>
