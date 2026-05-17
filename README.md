@@ -51,25 +51,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:21262d&height=3&section=header&reversal=false" width="100%"/>
-
-<br/>
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=php,js,html,css,c,cs,dart&theme=dark&perline=7" />
-
-<br/><br/>
-
-**Frameworks & Libraries**
-
-<img src="https://skillicons.dev/icons?i=laravel,tailwind,bootstrap,flutter&theme=dark&perline=7" />
-
-<br/><br/>
-
-**Databases & Tools**
-
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma&theme=dark&perline=7" />
+<img src="techstack.svg?v=1" width="100%" alt="Tech Stack" />
 
 </div>
 
