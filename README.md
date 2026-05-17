@@ -81,7 +81,7 @@
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=RaihanAryoWicaksono&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=bc8cff&text_color=c9d1d9&rank_icon=github" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RaihanAryoWicaksono&theme=github_dark" />
 &nbsp;
 <img width="48%" src="https://streak-stats.demolab.com?user=RaihanAryoWicaksono&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1f6feb&fire=ff6e40&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681" />
 
